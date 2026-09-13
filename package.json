@@ -1,0 +1,13 @@
+{
+  "name": "aneidabreak",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "checkly": "8.16.0",
+    "@playwright/test": "^1.60.0",
+    "typescript": "^5.9.3"
+  }
+}
